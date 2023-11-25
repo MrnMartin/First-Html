@@ -1,0 +1,29 @@
+body{background-image: url("Fond.jpg");
+           background-size:105% 105%;
+           background-repeat:no-repeat;
+           background-attachment: fixed;}
+        
+        h1{color:red}
+        h2{color:darkred}
+        h3{color:firebrick}
+        li{border: 2px black solid;
+           margin-left: 35em;
+           margin-right: 35em;
+           padding: 10px;
+           border-radius: 10px}
+
+#navigation{list-style-type:"";}
+
+.encadrer{border:1px solid black; padding: 5px;} 
+
+.droite{float: right; margin-right: 460px}
+
+.gauche{float: left; margin-left: 460px}
+
+.return{white-space: pre-line;}
+
+.decalage{margin-top: 350px;}
+
+.txtd{display: inline-block; float: center;}
+
+.declageim{margin-top: 250px;}
